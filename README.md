@@ -20,11 +20,15 @@ Lightweight and easy to use
 
 Requirement:		Minimum:
 --------------------------------------------------------------
-Operating System:	Windows 10 / 11 (64-bit)
-RAM:			4GB or higher recommended
-Graphics:		Any GPU (dedicated or integrated)
-Python Installation:	❌ Not needed (packaged into single .exe)
-Screen Setup:		Single or multi-monitor supported
+Operating System:	           Windows 10 / 11 (64-bit)
+
+RAM:		                	4GB or higher recommended
+
+Graphics:             		Any GPU (dedicated or integrated)
+
+Python Installation:	        ❌ Not needed (packaged into single .exe)
+
+Screen Setup:	                	Single or multi-monitor supported
 ---------------------------------------------------------------------------
 📦 Installation
 Download the NeuroShield.zip package from the official source.
